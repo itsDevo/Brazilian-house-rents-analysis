@@ -22,4 +22,4 @@ Unsupervised clustering was applied using:
 - **High-end housing cluster**
 
 ## Key Insight
-The strongest predictors of rent were **fire insurance cost** and **city/location**, with additional influence from HOA fees and floor level.
+The strongest predictors of rent were **fire insurance cost** and **city/location**, with additional influence from HOA fees and floor level. (for more detailed report see 'RRated2.pdf')
